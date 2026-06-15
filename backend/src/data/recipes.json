@@ -1,0 +1,847 @@
+[
+  {
+    "title": "Menemen",
+    "description": "Geleneksel Türk kahvaltı klasiği. Domates, biber ve yumurta ile hazırlanan lezzetli bir kahvaltılık.",
+    "category": "breakfast",
+    "servings": 2,
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      { "name": "Yumurta", "amount": 3, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Domates", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Sivri Biber", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Zeytinyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Pul Biber", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Zeytinyağını tavada kızdırın.",
+      "Doğranmış biberleri ekleyip 2 dakika kavurun.",
+      "Küp doğranmış domatesleri ekleyin, 5 dakika pişirin.",
+      "Yumurtaları kırın, hafifçe karıştırın.",
+      "Tuz ve pul biber ekleyip 3-4 dakika daha pişirin."
+    ],
+    "tags": ["kahvaltı", "vejetaryen", "hızlı"]
+  },
+  {
+    "title": "Mercimek Çorbası",
+    "description": "Türk mutfağının vazgeçilmez kırmızı mercimek çorbası. Besleyici ve doyurucu.",
+    "category": "lunch",
+    "servings": 4,
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      { "name": "Kırmızı Mercimek", "amount": 200, "unit": "gr", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Havuç", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Patates", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 1, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Zeytinyağı", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Karabiber", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Limon", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Su", "amount": 1.5, "unit": "litre", "allergenTags": [] }
+    ],
+    "steps": [
+      "Soğanı yemeklik doğrayın, zeytinyağında kavurun.",
+      "Havuç ve patatesi küçük küpler halinde ekleyin.",
+      "Yıkanmış mercimeği ekleyin, suyu ilave edin.",
+      "Kaynayınca kısık ateşte 25 dakika pişirin.",
+      "Blender ile pürüzsüz hale getirin.",
+      "Tereyağını eritip pul biberle çorbaya ekleyin.",
+      "Limon sıkarak servis yapın."
+    ],
+    "tags": ["çorba", "vegan-uyarlanabilir", "besleyici"]
+  },
+  {
+    "title": "Karnıyarık",
+    "description": "Kıymalı, soğanlı ve domatesli klasik Türk patlıcan yemeği.",
+    "category": "dinner",
+    "servings": 4,
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 40,
+    "ingredients": [
+      { "name": "Patlıcan", "amount": 4, "unit": "adet", "allergenTags": [] },
+      { "name": "Kıyma", "amount": 300, "unit": "gr", "allergenTags": [] },
+      { "name": "Soğan", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Domates", "amount": 3, "unit": "adet", "allergenTags": [] },
+      { "name": "Sivri Biber", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Sarımsak", "amount": 2, "unit": "diş", "allergenTags": [] },
+      { "name": "Sıvı Yağ", "amount": 4, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Domates Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Karabiber", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Patlıcanları alacalı soyup tuzlu suda 15 dakika bekletin.",
+      "Kızgın yağda patlıcanları kızartın, tepsiye dizin.",
+      "Soğanı kavurun, kıymayı ekleyip suyunu çekene kadar pişirin.",
+      "Domates, biber ve salçayı ekleyip 5 dakika daha pişirin.",
+      "Patlıcanları ortadan yarıp içlerini harçla doldurun.",
+      "Üzerine domates dilimleri koyun.",
+      "Önceden ısıtılmış 180°C fırında 20 dakika pişirin."
+    ],
+    "tags": ["ana yemek", "fırın", "geleneksel"]
+  },
+  {
+    "title": "Çılbır (Yumurtalı Yoğurt)",
+    "description": "Osmanlı mutfağından gelen poşe yumurta ve sarımsaklı yoğurt kombinasyonu.",
+    "category": "breakfast",
+    "servings": 2,
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 10,
+    "ingredients": [
+      { "name": "Yumurta", "amount": 2, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Yoğurt", "amount": 200, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Sarımsak", "amount": 1, "unit": "diş", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 1, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Pul Biber", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Sirke", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Yoğurdu ezilmiş sarımsakla karıştırın, tabağa yayın.",
+      "Sirkeli suda yumurtaları poşe yapın.",
+      "Poşe yumurtaları yoğurdun üzerine yerleştirin.",
+      "Tereyağını eritip pul biber ekleyin.",
+      "Kızgın tereyağını üzerine gezdirin."
+    ],
+    "tags": ["kahvaltı", "osmanlı", "protein"]
+  },
+  {
+    "title": "İçli Köfte",
+    "description": "Bulgurlu dış hamur ve cevizli-kıymalı iç harçlı geleneksel Güneydoğu lezzeti.",
+    "category": "dinner",
+    "servings": 6,
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      { "name": "İnce Bulgur", "amount": 300, "unit": "gr", "allergenTags": ["gluten"] },
+      { "name": "Un", "amount": 3, "unit": "yemek kaşığı", "allergenTags": ["gluten"] },
+      { "name": "Kıyma", "amount": 200, "unit": "gr", "allergenTags": [] },
+      { "name": "Ceviz", "amount": 100, "unit": "gr", "allergenTags": ["nuts"] },
+      { "name": "Soğan", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Maydanoz", "amount": 1, "unit": "demet", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Pul Biber", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1.5, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Karabiber", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "İnce bulguru ılık suyla ıslatıp 15 dakika bekletin.",
+      "Un ve tuz ekleyip yoğurun, köfte hamurunu hazırlayın.",
+      "İç harç: soğanı kavurup kıymayı ekleyin.",
+      "Dövülmüş ceviz, maydanoz ve baharatları ekleyin.",
+      "Hamurdan ceviz büyüklüğünde parçalar alıp içini oyun.",
+      "Harçla doldurup kapatın, oval şekil verin.",
+      "Kaynayan suda veya kızgın yağda 5-7 dakika pişirin."
+    ],
+    "tags": ["ana yemek", "güneydoğu", "geleneksel"]
+  },
+  {
+    "title": "Sütlaç",
+    "description": "Fırında kızarmış geleneksel Türk sütlü tatlısı.",
+    "category": "dessert",
+    "servings": 6,
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 45,
+    "ingredients": [
+      { "name": "Süt", "amount": 1, "unit": "litre", "allergenTags": ["dairy"] },
+      { "name": "Pirinç", "amount": 100, "unit": "gr", "allergenTags": [] },
+      { "name": "Şeker", "amount": 150, "unit": "gr", "allergenTags": [] },
+      { "name": "Nişasta", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Yumurta Sarısı", "amount": 1, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Vanilya", "amount": 1, "unit": "paket", "allergenTags": [] },
+      { "name": "Su", "amount": 200, "unit": "ml", "allergenTags": [] }
+    ],
+    "steps": [
+      "Pirinci yıkayıp suda haşlayın.",
+      "Sütü ekleyip kısık ateşte 20 dakika pişirin.",
+      "Şeker ve nişastayı ekleyip koyulaşana kadar karıştırın.",
+      "Ateşten alıp yumurta sarısı ve vanilyayı ekleyin.",
+      "Güveç kaplarına paylaştırın.",
+      "200°C fırında üzeri kızarana kadar 15-20 dakika pişirin.",
+      "Soğutup buzdolabında servis yapın."
+    ],
+    "tags": ["tatlı", "sütlü", "geleneksel"]
+  },
+  {
+    "title": "Kısır",
+    "description": "Narlı, cevizli ince bulgur salatası. Hafif ve besleyici bir meze.",
+    "category": "snack",
+    "servings": 6,
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 0,
+    "ingredients": [
+      { "name": "İnce Bulgur", "amount": 250, "unit": "gr", "allergenTags": ["gluten"] },
+      { "name": "Nar Ekşisi", "amount": 3, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Limon", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Domates", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Salatalık", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Yeşil Soğan", "amount": 3, "unit": "adet", "allergenTags": [] },
+      { "name": "Maydanoz", "amount": 1, "unit": "demet", "allergenTags": [] },
+      { "name": "Nane", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Zeytinyağı", "amount": 3, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Ceviz", "amount": 50, "unit": "gr", "allergenTags": ["nuts"] },
+      { "name": "Domates Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Bulguru kaynar suyla ıslatıp 15 dakika demlendirin.",
+      "Salça ve zeytinyağını ekleyip iyice yoğurun.",
+      "Sebzeleri ince ince doğrayın.",
+      "Tüm malzemeleri bulgurla karıştırın.",
+      "Nar ekşisi, limon suyu ve baharatları ekleyin.",
+      "Ceviz kırıklarıyla süsleyip servis yapın."
+    ],
+    "tags": ["meze", "vegan", "soğuk"]
+  },
+  {
+    "title": "Tavuk Şiş",
+    "description": "Marine edilmiş tavuk göğsü ile hazırlanan ızgara şiş. Yoğurt ve baharat marinasyonu.",
+    "category": "dinner",
+    "servings": 4,
+    "prepTimeMinutes": 120,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      { "name": "Tavuk Göğsü", "amount": 600, "unit": "gr", "allergenTags": [] },
+      { "name": "Yoğurt", "amount": 100, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Zeytinyağı", "amount": 3, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Sarımsak", "amount": 2, "unit": "diş", "allergenTags": [] },
+      { "name": "Kırmızı Biber", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Pul Biber", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Kimyon", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Tavuğu kuşbaşı doğrayın.",
+      "Yoğurt, zeytinyağı, rendelenmiş soğan ve baharatları karıştırın.",
+      "Tavukları marinasyona yatırıp en az 2 saat bekletin.",
+      "Şişlere dizin, araya biber yerleştirin.",
+      "Kızgın ızgarada her tarafı 3-4 dakika pişirin.",
+      "Pilav veya lavaş ile servis yapın."
+    ],
+    "tags": ["ana yemek", "ızgara", "protein"]
+  },
+  {
+    "title": "Gözleme",
+    "description": "İnce açılmış hamurla hazırlanan, ıspanaklı ve peynirli geleneksel Anadolu lezzeti.",
+    "category": "snack",
+    "servings": 4,
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      { "name": "Un", "amount": 300, "unit": "gr", "allergenTags": ["gluten"] },
+      { "name": "Su", "amount": 200, "unit": "ml", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Ispanak", "amount": 200, "unit": "gr", "allergenTags": [] },
+      { "name": "Beyaz Peynir", "amount": 150, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] }
+    ],
+    "steps": [
+      "Un, su ve tuzu yoğurup hamur yapın, 20 dakika dinlendirin.",
+      "Ispanağı yıkayıp doğrayın, peynirle karıştırın.",
+      "Hamuru 4 bezeye ayırın, ince açın.",
+      "Ortasına iç harç koyun, kapatın.",
+      "Sac veya tavada her iki tarafı tereyağıyla kızartın.",
+      "Sıcak servis yapın."
+    ],
+    "tags": ["atıştırmalık", "hamur işi", "anadolu"]
+  },
+  {
+    "title": "Şakşuka",
+    "description": "Kızartılmış patlıcan ve biberle hazırlanan yoğurtlu meze. Hafif ve ferahlatıcı.",
+    "category": "lunch",
+    "servings": 4,
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      { "name": "Patlıcan", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Sivri Biber", "amount": 3, "unit": "adet", "allergenTags": [] },
+      { "name": "Domates", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Yoğurt", "amount": 200, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Sarımsak", "amount": 2, "unit": "diş", "allergenTags": [] },
+      { "name": "Sıvı Yağ", "amount": 4, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Patlıcanları küp küp doğrayın, tuzlu suda bekletin.",
+      "Sıvı yağda patlıcan ve biberleri kızartın.",
+      "Domatesleri rendeleyin, ayrı tavada pişirin.",
+      "Kızartılmış sebzeleri domates sosuyla karıştırın.",
+      "Yoğurdu sarımsakla ezin.",
+      "Tabağa yoğurdu yayın, üzerine sebzeleri yerleştirin."
+    ],
+    "tags": ["meze", "vejetaryen", "soğuk"]
+  },
+  {
+    "title": "Baklava",
+    "description": "Kat kat yufka, tereyağı ve fıstık ile hazırlanan dünyaca ünlü Türk tatlısı.",
+    "category": "dessert",
+    "servings": 12,
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 45,
+    "ingredients": [
+      { "name": "Yufka", "amount": 500, "unit": "gr", "allergenTags": ["gluten"] },
+      { "name": "Tereyağı", "amount": 250, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Antep Fıstığı", "amount": 200, "unit": "gr", "allergenTags": ["nuts"] },
+      { "name": "Şeker", "amount": 400, "unit": "gr", "allergenTags": [] },
+      { "name": "Su", "amount": 300, "unit": "ml", "allergenTags": [] },
+      { "name": "Limon Suyu", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Şerbeti hazırlayın: şeker ve suyu kaynatıp limon suyu ekleyin, soğutun.",
+      "Tereyağını eritin.",
+      "Fıstıkları çekin.",
+      "Tepsiye yufkaları tereyağı sürerek dizin (5-6 kat).",
+      "Fıstık serpin, tekrar 5-6 kat yufka dizin.",
+      "Baklava şeklinde kesin.",
+      "180°C fırında 40-45 dakika altın rengi olana kadar pişirin.",
+      "Soğuk şerbeti sıcak baklavanın üzerine dökün.",
+      "4-5 saat şerbeti çekmesini bekleyin."
+    ],
+    "tags": ["tatlı", "geleneksel", "fıstıklı"]
+  },
+  {
+    "title": "Ayran",
+    "description": "Yoğurt, su ve tuzdan yapılan geleneksel Türk içeceği. Serinletici ve sağlıklı.",
+    "category": "beverage",
+    "servings": 2,
+    "prepTimeMinutes": 2,
+    "cookTimeMinutes": 0,
+    "ingredients": [
+      { "name": "Yoğurt", "amount": 200, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Su", "amount": 200, "unit": "ml", "allergenTags": [] },
+      { "name": "Tuz", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Yoğurdu derin bir kaba alın.",
+      "Soğuk suyu ekleyin.",
+      "Mikser veya çırpıcı ile köpürene kadar çırpın.",
+      "Tuz ekleyip karıştırın.",
+      "Soğuk servis yapın."
+    ],
+    "tags": ["içecek", "sağlıklı", "geleneksel"]
+  },
+  {
+    "title": "Mantı",
+    "description": "Kıymalı iç harcıyla hazırlanan, sarımsaklı yoğurt ve salçalı sos ile servis edilen Kayseri mantısı.",
+    "category": "dinner",
+    "servings": 4,
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      { "name": "Un", "amount": 3, "unit": "su bardağı", "allergenTags": ["gluten"] },
+      { "name": "Yumurta", "amount": 1, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Su", "amount": 1, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Kıyma", "amount": 250, "unit": "gr", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Yoğurt", "amount": 400, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Sarımsak", "amount": 3, "unit": "diş", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Domates Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 2, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Nane", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Sumak", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Un, yumurta, su ve tuzu yoğurup sert bir hamur elde edin, 30 dk dinlendirin.",
+      "Kıyma, rendelenmiş soğan, tuz ve karabiberi karıştırarak iç harcı hazırlayın.",
+      "Hamuru yufka inceliğinde açıp küçük kareler halinde kesin.",
+      "Her karenin ortasına iç harçtan koyup bohça şeklinde kapatın.",
+      "Mantıları kaynayan tuzlu suda 15-20 dk pişirin.",
+      "Sarımsaklı yoğurdu hazırlayın.",
+      "Tereyağında salça ve naneyi kavurarak sosu hazırlayın.",
+      "Mantıların üzerine yoğurt ve sos gezdirerek sıcak servis yapın."
+    ],
+    "tags": ["ana yemek", "hamur işi", "kayseri"]
+  },
+  {
+    "title": "İskender Kebap",
+    "description": "Pidelerin üzerinde tereyağı, ince döner dilimleri, domates sosu ve yanında yoğurt ile servis edilen efsane lezzet.",
+    "category": "dinner",
+    "servings": 2,
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      { "name": "Döner Eti", "amount": 400, "unit": "gr", "allergenTags": [] },
+      { "name": "Pide", "amount": 2, "unit": "adet", "allergenTags": ["gluten"] },
+      { "name": "Domates Salçası", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 4, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Yoğurt", "amount": 200, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Su", "amount": 1, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Domates", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Sivri Biber", "amount": 2, "unit": "adet", "allergenTags": [] }
+    ],
+    "steps": [
+      "Pideleri küp küp doğrayıp tavada veya fırında hafifçe ısıtın.",
+      "Sos için salçayı biraz yağda kavurup su ekleyin, 5 dk kaynatın.",
+      "Döner etlerini ısıtın.",
+      "Tabağın en altına pideleri yayın.",
+      "Üzerine sıcak domates sosundan biraz gezdirin.",
+      "Döner etlerini yerleştirin ve kalan sosu etlerin üzerine dökün.",
+      "Kızgın tereyağını en üstte gezdirin.",
+      "Yanına yoğurt, közlenmiş domates ve biber ekleyerek servis yapın."
+    ],
+    "tags": ["kebap", "bursa", "et"]
+  },
+  {
+    "title": "Lahmacun",
+    "description": "İnce açılmış hamurun üzerine kıymalı, soğanlı ve bol baharatlı harcın sürülerek fırında pişirildiği çıtır lezzet.",
+    "category": "dinner",
+    "servings": 4,
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 10,
+    "ingredients": [
+      { "name": "Un", "amount": 500, "unit": "gr", "allergenTags": ["gluten"] },
+      { "name": "Su", "amount": 300, "unit": "ml", "allergenTags": [] },
+      { "name": "Kuru Maya", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Kıyma", "amount": 300, "unit": "gr", "allergenTags": [] },
+      { "name": "Soğan", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Sarımsak", "amount": 3, "unit": "diş", "allergenTags": [] },
+      { "name": "Domates", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Maydanoz", "amount": 0.5, "unit": "demet", "allergenTags": [] },
+      { "name": "Domates Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Biber Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 2, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "İsot", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Un, su, maya ve tuzu yoğurup hamuru 1 saat mayalanmaya bırakın.",
+      "İç harcı için soğan, sarımsak, domates ve maydanozu robottan geçirin çok ince doğrayın.",
+      "Kıyma, salçalar, baharatlar ve sebzeleri karıştırıp harcı hazırlayın.",
+      "Mayalanan hamurdan bezeler alıp incecik açın.",
+      "Açılan hamurların üzerine iç harçtan ince bir tabaka halinde yayın.",
+      "En yüksek derecede ısıtılmış fırında veya taş fırında kenarları kızarana kadar (yaklaşık 7-10 dk) pişirin.",
+      "Bol yeşillik ve limon ile servis yapın."
+    ],
+    "tags": ["pizza", "sokak lezzeti", "fırın"]
+  },
+  {
+    "title": "Yayla Çorbası",
+    "description": "Pirinç, yoğurt ve nane ile hazırlanan ferahlatıcı ve şifalı geleneksel bir çorba.",
+    "category": "lunch",
+    "servings": 4,
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      { "name": "Pirinç", "amount": 0.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Su", "amount": 6, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Yoğurt", "amount": 2, "unit": "su bardağı", "allergenTags": ["dairy"] },
+      { "name": "Un", "amount": 1, "unit": "yemek kaşığı", "allergenTags": ["gluten"] },
+      { "name": "Yumurta Sarısı", "amount": 1, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Kuru Nane", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Pirinci yıkayıp 6 su bardağı su ile yumuşayana kadar haşlayın.",
+      "Ayrı bir kasede yoğurt, un ve yumurta sarısını pürüzsüz olana kadar çırpın (terbiye).",
+      "Kaynayan pirincin suyundan 1-2 kepçe alıp terbiyeye yavaşça ekleyerek ılıştırın.",
+      "Ilışan terbiyeyi yavaş yavaş ve sürekli karıştırarak çorbaya ilave edin.",
+      "Çorba kaynayana kadar karıştırmaya devam edin, kaynadıktan sonra kısık ateşte 5 dk daha pişirin.",
+      "En son tuzunu ekleyin.",
+      "Tereyağını kızdırıp naneyi ekleyin ve çorbanın üzerine dökerek servis yapın."
+    ],
+    "tags": ["çorba", "sağlıklı", "sıcak"]
+  },
+  {
+    "title": "Zeytinyağlı Yaprak Sarma",
+    "description": "Asma yapraklarına sarılmış pirinç, soğan, kuş üzümü, dolmalık fıstık ve taze otlardan oluşan incecik kalem sarmalar.",
+    "category": "lunch",
+    "servings": 6,
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 45,
+    "ingredients": [
+      { "name": "Asma Yaprağı", "amount": 300, "unit": "gr", "allergenTags": [] },
+      { "name": "Pirinç", "amount": 2, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Soğan", "amount": 4, "unit": "adet", "allergenTags": [] },
+      { "name": "Zeytinyağı", "amount": 1, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Kuş Üzümü", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Dolmalık Fıstık", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["nuts"] },
+      { "name": "Kuru Nane", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Yenibahar", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Tarçın", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Karabiber", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Limon", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Sıcak Su", "amount": 2, "unit": "su bardağı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Zeytinyağının yarısını tencereye alın, fıstıkları pembeleşene kadar kavurun.",
+      "İnce doğranmış soğanları ekleyip şeffaflaşana kadar kavurmaya devam edin.",
+      "Yıkanmış pirinçleri ekleyip 5 dk daha kavurun.",
+      "Kuş üzümü, nane, yenibahar, tarçın, karabiber ve tuzu ekleyin.",
+      "1 bardak sıcak su ekleyip pirinçler suyu çekene kadar kısık ateşte demlendirin (iç harcı çok pişirmeyin).",
+      "Asma yapraklarının içine hazırladığınız harçtan koyup ince uzun kalem gibi sarın.",
+      "Sarmaları tencereye dizin. Üzerine kalan zeytinyağını, limon dilimlerini ve 1 bardak sıcak suyu ekleyin.",
+      "Üzerine porselen bir tabak kapatın, kısık ateşte suyunu çekene kadar yaklaşık 45 dk pişirin.",
+      "Soğuk olarak servis yapın."
+    ],
+    "tags": ["zeytinyağlı", "vegan", "soğuk"]
+  },
+  {
+    "title": "Kumpir",
+    "description": "Fırınlanmış dev patatesin içine kaşar peyniri ve tereyağı yedirilerek hazırlanan, üzeri bol malzemeli sokak lezzeti.",
+    "category": "snack",
+    "servings": 2,
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 90,
+    "ingredients": [
+      { "name": "Büyük Patates", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Kaşar Peyniri", "amount": 150, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Sosis", "amount": 2, "unit": "adet", "allergenTags": [] },
+      { "name": "Mısır", "amount": 4, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Yeşil Zeytin", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Siyah Zeytin", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Turşu", "amount": 4, "unit": "adet", "allergenTags": [] },
+      { "name": "Amerikan Salatası", "amount": 4, "unit": "yemek kaşığı", "allergenTags": ["eggs", "dairy"] },
+      { "name": "Ketçap", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Mayonez", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["eggs"] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Patatesleri iyice yıkayın ve alüminyum folyoya sarın.",
+      "Önceden ısıtılmış 200°C fırında patatesler yumuşayana kadar (yaklaşık 1.5 saat) pişirin.",
+      "Pişen patatesleri ortadan ikiye kesin (tamamen koparmayın).",
+      "İçini çatal yardımıyla ezip, tereyağı, rendelenmiş kaşar ve tuz ekleyerek püre haline gelene kadar karıştırın.",
+      "Sosisleri doğrayıp hafifçe soteleyin.",
+      "Patatesin üzerine amerikan salatası, sosis, mısır, doğranmış zeytin ve turşuları yerleştirin.",
+      "En üste ketçap ve mayonez sıkarak sıcak servis yapın."
+    ],
+    "tags": ["sokak lezzeti", "fast food", "doyurucu"]
+  },
+  {
+    "title": "Künefe",
+    "description": "Tel kadayıf ve özel eriyen peynirin tereyağı ile kızartılıp sıcak şerbetle buluştuğu Antakya tatlısı.",
+    "category": "dessert",
+    "servings": 4,
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      { "name": "Tel Kadayıf", "amount": 250, "unit": "gr", "allergenTags": ["gluten"] },
+      { "name": "Dil Peyniri (Künefelik)", "amount": 150, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Tereyağı", "amount": 100, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Pekmez", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Şeker", "amount": 1.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Su", "amount": 1.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Limon Suyu", "amount": 3, "unit": "damla", "allergenTags": [] },
+      { "name": "Antep Fıstığı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["nuts"] }
+    ],
+    "steps": [
+      "Şerbet için su ve şekeri kaynatın, limon suyunu ekleyip soğumaya bırakın.",
+      "Tereyağını eritin. Soğuyan tereyağının birazını pekmezle karıştırıp künefe tepsisinin tabanına sürün.",
+      "Kadayıfları ince ince tiftikleyin ve kalan erimiş tereyağı ile iyice harmanlayın.",
+      "Kadayıfın yarısını tepsiye yayın ve elinizle iyice bastırın.",
+      "Üzerine rendelenmiş veya ince doğranmış peyniri kenarlara çok taşırmadan yayın.",
+      "Kalan kadayıfı peynirin üzerine kapatın ve tekrar iyice bastırın.",
+      "Kısık ateşte altı kızarana kadar pişirin, sonra bir tabak yardımıyla ters çevirip diğer tarafını da kızartın.",
+      "Sıcak künefenin üzerine soğuk şerbeti dökün.",
+      "Antep fıstığı serperek hemen sıcak servis yapın."
+    ],
+    "tags": ["tatlı", "antakya", "sıcak"]
+  },
+  {
+    "title": "Türk Kahvesi",
+    "description": "Cezvede ağır ağır pişirilen, bol köpüklü, yanında lokumla ikram edilen geleneksel Türk kahvesi.",
+    "category": "beverage",
+    "servings": 2,
+    "prepTimeMinutes": 2,
+    "cookTimeMinutes": 5,
+    "ingredients": [
+      { "name": "Kuru Kahve (İnce Çekilmiş)", "amount": 2, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Su", "amount": 2, "unit": "fincan", "allergenTags": [] },
+      { "name": "Şeker", "amount": 2, "unit": "küp", "allergenTags": [] }
+    ],
+    "steps": [
+      "Cezveye kişi başı bir fincan soğuk su koyun.",
+      "Kişi başı tepeleme 1 tatlı kaşığı kahve ve isteğe göre şeker ekleyin.",
+      "Kısık ateşte karıştırmadan kahvenin dibe çökmesini ve ısınmasını bekleyin.",
+      "Kahve kabarmaya ve köpürmeye başladığında fincanlara birer miktar köpük alın.",
+      "Cezveyi tekrar ateşe koyun, bir taşım daha kaynatıp kalan kahveyi fincanlara paylaştırın.",
+      "Yanında bir bardak su ve lokum ile servis yapın."
+    ],
+    "tags": ["içecek", "geleneksel", "kahve"]
+  },
+  {
+    "title": "Ali Nazik",
+    "description": "Közlenmiş patlıcanlı yoğurt yatağında, tereyağlı ve salçalı kıyma ile sunulan harika bir Gaziantep lezzeti.",
+    "category": "dinner",
+    "servings": 4,
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      { "name": "Patlıcan", "amount": 4, "unit": "adet", "allergenTags": [] },
+      { "name": "Süzme Yoğurt", "amount": 2, "unit": "su bardağı", "allergenTags": ["dairy"] },
+      { "name": "Sarımsak", "amount": 3, "unit": "diş", "allergenTags": [] },
+      { "name": "Kıyma", "amount": 300, "unit": "gr", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Biber Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Tuz", "amount": 1.5, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Karabiber", "amount": 0.5, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Patlıcanları közleyip kabuklarını soyun ve ince ince kıyın.",
+      "Ezilmiş sarımsak ve yoğurdu közlenmiş patlıcanla iyice karıştırıp servis tabağına yayın.",
+      "Bir tavada ince doğranmış soğanı kavurun, kıymayı ekleyip suyunu çekene kadar pişirin.",
+      "Tereyağı, biber salçası, tuz ve karabiberi ekleyip 5 dakika daha kavurun.",
+      "Hazırladığınız kıymalı harcı patlıcanlı yoğurdun üzerine dökerek sıcak servis yapın."
+    ],
+    "tags": ["ana yemek", "gaziantep", "kebap"]
+  },
+  {
+    "title": "Çiğ Köfte (Etsiz)",
+    "description": "İnce bulgur, isot, salça ve cevizle yoğurularak hazırlanan, marul ile tüketilen meşhur sokak lezzeti.",
+    "category": "snack",
+    "servings": 6,
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 0,
+    "ingredients": [
+      { "name": "Esmer İnce Bulgur", "amount": 3, "unit": "su bardağı", "allergenTags": ["gluten"] },
+      { "name": "Sıcak Su", "amount": 1.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Sarımsak", "amount": 4, "unit": "diş", "allergenTags": [] },
+      { "name": "Domates Salçası", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Biber Salçası", "amount": 3, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "İsot", "amount": 4, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Zeytinyağı", "amount": 0.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Nar Ekşisi", "amount": 4, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Ceviz (İnce Çekilmiş)", "amount": 1, "unit": "su bardağı", "allergenTags": ["nuts"] },
+      { "name": "Maydanoz", "amount": 0.5, "unit": "demet", "allergenTags": [] }
+    ],
+    "steps": [
+      "Bulguru geniş bir tepsiye alıp sıcak suyla hafif ıslatın ve üzerini kapatıp 15 dk bekletin.",
+      "İnce doğranmış soğanı (suyu sıkılmış) ve ezilmiş sarımsağı ekleyin.",
+      "Salçaları, isotu ve tuzu ekleyerek yoğurmaya başlayın (arada buzlu su ile ellerinizi ıslatın).",
+      "Bulgurlar yumuşayınca zeytinyağı ve nar ekşisini ilave edip 10 dk daha yoğurun.",
+      "İnce çekilmiş ceviz ve kıyılmış maydanozu ekleyip son bir kez karıştırın.",
+      "Ceviz büyüklüğünde parçalar koparıp elinizle sıkarak şekil verin ve marul eşliğinde servis yapın."
+    ],
+    "tags": ["sokak lezzeti", "vegan", "meze"]
+  },
+  {
+    "title": "Hünkar Beğendi",
+    "description": "Köz patlıcanlı kaşarlı püre üzerine yumuşacık pişmiş kuşbaşı etlerin yerleştirildiği saray yemeği.",
+    "category": "dinner",
+    "servings": 4,
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 90,
+    "ingredients": [
+      { "name": "Kuşbaşı Et (Dana veya Kuzu)", "amount": 500, "unit": "gr", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Domates Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Patlıcan", "amount": 4, "unit": "adet", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 3, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Un", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["gluten"] },
+      { "name": "Süt", "amount": 1.5, "unit": "su bardağı", "allergenTags": ["dairy"] },
+      { "name": "Kaşar Peyniri (Rende)", "amount": 0.5, "unit": "su bardağı", "allergenTags": ["dairy"] },
+      { "name": "Tuz", "amount": 1.5, "unit": "çay kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Eti bir tencereye alın, suyunu salıp çekene kadar kavurun.",
+      "Soğanı ekleyip kavurmaya devam edin, salçayı ve sıcak suyu ekleyip etler yumuşayana kadar pişirin.",
+      "Patlıcanları közleyip soyun ve incecik kıyın.",
+      "Beğendi için başka bir tencerede tereyağı ve unu pembeleşene kadar kavurun.",
+      "Soğuk sütü yavaş yavaş ekleyerek çırpın, kıvam alınca közlenmiş patlıcanları, tuzu ve rendelenmiş kaşarı ekleyip ocaktan alın.",
+      "Tabağa önce beğendiyi yayın, üzerine pişmiş etleri koyarak servis yapın."
+    ],
+    "tags": ["saray mutfağı", "ana yemek", "et"]
+  },
+  {
+    "title": "Su Böreği",
+    "description": "Suda haşlanmış yufkaların arasına peynir ve maydanoz konularak fırında kızartılan enfes börek.",
+    "category": "lunch",
+    "servings": 8,
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 45,
+    "ingredients": [
+      { "name": "Un", "amount": 5, "unit": "su bardağı", "allergenTags": ["gluten"] },
+      { "name": "Yumurta", "amount": 5, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Su", "amount": 0.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Beyaz Peynir", "amount": 400, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Maydanoz", "amount": 0.5, "unit": "demet", "allergenTags": [] },
+      { "name": "Tereyağı (Eritilmiş)", "amount": 200, "unit": "gr", "allergenTags": ["dairy"] }
+    ],
+    "steps": [
+      "Un, yumurta, su ve tuzu yoğurarak özlü bir hamur elde edin. 10 eşit bezeye ayırıp dinlendirin.",
+      "Bezeleri tepsi büyüklüğünde incecik açın.",
+      "Geniş bir tencerede tuzlu su kaynatın. Hemen yanına buzlu su dolu bir kap koyun.",
+      "Açılan yufkaları tek tek kaynar suya atıp 30 saniye haşlayın, ardından hemen soğuk suya sokup çıkarın ve kurulayın.",
+      "Yağlanmış tepsiye her haşlanmış yufkanın arasına eritilmiş tereyağı sürerek 5 kat dizin.",
+      "Ortaya peynir ve maydanoz karışımını yayın.",
+      "Kalan 5 yufkayı da aynı şekilde haşlayıp yağlayarak üstüne kapatın.",
+      "Ocak üzerinde tepsiyi çevire çevire veya 200 derece fırında altı üstü kızarana kadar pişirin."
+    ],
+    "tags": ["börek", "hamur işi", "klasik"]
+  },
+  {
+    "title": "Şekerpare",
+    "description": "Ağızda dağılan hamuru ve tam kıvamında şerbetiyle geleneksel Türk tatlısı.",
+    "category": "dessert",
+    "servings": 8,
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      { "name": "Tereyağı (Oda Sıcaklığında)", "amount": 125, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Pudra Şekeri", "amount": 0.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Yumurta", "amount": 2, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "İrmik", "amount": 3, "unit": "yemek kaşığı", "allergenTags": ["gluten"] },
+      { "name": "Un", "amount": 2.5, "unit": "su bardağı", "allergenTags": ["gluten"] },
+      { "name": "Kabartma Tozu", "amount": 1, "unit": "paket", "allergenTags": [] },
+      { "name": "Fındık (Üzeri için)", "amount": 20, "unit": "adet", "allergenTags": ["nuts"] },
+      { "name": "Şeker (Şerbet için)", "amount": 2.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Su (Şerbet için)", "amount": 3, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Limon Suyu", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Şerbeti için şeker ve suyu kaynatın, limon suyunu ekleyip soğumaya bırakın.",
+      "Hamur için tereyağı, pudra şekeri, irmik ve yumurtayı (birinin sarısını üzeri için ayırın) karıştırın.",
+      "Elenmiş un ve kabartma tozunu ekleyip ele yapışmayan yumuşak bir hamur yoğurun.",
+      "Ceviz büyüklüğünde parçalar koparıp yuvarlayın, tepsiye dizin ve ortalarına birer fındık batırın.",
+      "Önceden ısıtılmış 180°C fırında kızarana kadar (yaklaşık 25 dk) pişirin.",
+      "Fırından çıkan sıcak şekerparelerin üzerine soğumuş şerbeti gezdirin ve çekmesini bekleyin."
+    ],
+    "tags": ["tatlı", "şerbetli", "geleneksel"]
+  },
+  {
+    "title": "Revani",
+    "description": "İrmikli, şerbetli ve hafif limon aromalı enfes kek tatlısı.",
+    "category": "dessert",
+    "servings": 8,
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      { "name": "Yumurta", "amount": 3, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Şeker", "amount": 1, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Sıvı Yağ", "amount": 1, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Yoğurt", "amount": 1, "unit": "su bardağı", "allergenTags": ["dairy"] },
+      { "name": "İrmik", "amount": 1, "unit": "su bardağı", "allergenTags": ["gluten"] },
+      { "name": "Un", "amount": 1, "unit": "su bardağı", "allergenTags": ["gluten"] },
+      { "name": "Kabartma Tozu", "amount": 1, "unit": "paket", "allergenTags": [] },
+      { "name": "Vanilya", "amount": 1, "unit": "paket", "allergenTags": [] },
+      { "name": "Limon Kabuğu Rendesi", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Şeker (Şerbet için)", "amount": 3, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Su (Şerbet için)", "amount": 3, "unit": "su bardağı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Şerbeti için şeker ve suyu kaynatın, biraz limon sıkıp soğumaya bırakın.",
+      "Kek için yumurta ve şekeri köpürene kadar çırpın.",
+      "Sıvı yağ, yoğurt ve limon kabuğunu ekleyip karıştırın.",
+      "İrmik, un, kabartma tozu ve vanilyayı ilave edip homojen olana kadar karıştırın.",
+      "Yağlanmış fırın kabına harcı dökün.",
+      "180°C fırında üzeri kızarana kadar pişirin.",
+      "Fırından çıkan sıcak kekin üzerine soğuk şerbeti döküp dilimleyerek servis yapın."
+    ],
+    "tags": ["tatlı", "şerbetli", "irmik"]
+  },
+  {
+    "title": "Ezogelin Çorbası",
+    "description": "Kırmızı mercimek, bulgur ve pirinç ile hazırlanan naneli ve salçalı efsane çorba.",
+    "category": "lunch",
+    "servings": 4,
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 35,
+    "ingredients": [
+      { "name": "Kırmızı Mercimek", "amount": 1, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Bulgur", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["gluten"] },
+      { "name": "Pirinç", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Soğan", "amount": 1, "unit": "adet", "allergenTags": [] },
+      { "name": "Tereyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": ["dairy"] },
+      { "name": "Domates Salçası", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Kuru Nane", "amount": 1, "unit": "yemek kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Sıcak Su", "amount": 6, "unit": "su bardağı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Mercimek, bulgur ve pirinci yıkayıp tencereye alın, suyunu ekleyip yumuşayana kadar haşlayın.",
+      "Ayrı bir tavada tereyağını eritip ince doğranmış soğanı kavurun.",
+      "Salçayı ve naneyi ekleyip biraz daha kavurun.",
+      "Hazırladığınız bu sosu kaynayan çorbaya ilave edip iyice karıştırın.",
+      "Tuzunu ekleyip 5 dakika daha kısık ateşte pişirdikten sonra limon ile servis yapın."
+    ],
+    "tags": ["çorba", "kış", "besleyici"]
+  },
+  {
+    "title": "Mücver",
+    "description": "Kabak, dereotu ve beyaz peynirin tavada kızartıldığı hafif ve lezzetli atıştırmalık.",
+    "category": "snack",
+    "servings": 4,
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      { "name": "Kabak", "amount": 3, "unit": "adet", "allergenTags": [] },
+      { "name": "Yumurta", "amount": 2, "unit": "adet", "allergenTags": ["eggs"] },
+      { "name": "Taze Soğan", "amount": 3, "unit": "dal", "allergenTags": [] },
+      { "name": "Dereotu", "amount": 0.5, "unit": "demet", "allergenTags": [] },
+      { "name": "Beyaz Peynir", "amount": 100, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Un", "amount": 4, "unit": "yemek kaşığı", "allergenTags": ["gluten"] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Sıvı Yağ", "amount": 0.5, "unit": "su bardağı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Kabakları rendeleyip suyunu iyice sıkın.",
+      "Geniş bir kaba aldığınız kabakların üzerine ince kıyılmış dereotu ve taze soğanı ekleyin.",
+      "Yumurta, un, ufalanmış beyaz peynir ve tuzu ekleyip harcı karıştırın.",
+      "Geniş bir tavada yağı kızdırın.",
+      "Karışımdan kaşıkla alıp tavaya dökün, her iki tarafını da kızarana kadar pişirin.",
+      "Kağıt havlu üzerine alıp fazla yağını süzdürdükten sonra yoğurtla servis yapın."
+    ],
+    "tags": ["atıştırmalık", "sebze", "kızartma"]
+  },
+  {
+    "title": "Cacık",
+    "description": "Salatalık, yoğurt, sarımsak ve nane ile hazırlanan ferahlatıcı yaz mezesi.",
+    "category": "lunch",
+    "servings": 4,
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "ingredients": [
+      { "name": "Salatalık", "amount": 3, "unit": "adet", "allergenTags": [] },
+      { "name": "Yoğurt", "amount": 2, "unit": "su bardağı", "allergenTags": ["dairy"] },
+      { "name": "Su", "amount": 0.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Sarımsak", "amount": 2, "unit": "diş", "allergenTags": [] },
+      { "name": "Kuru Nane", "amount": 1, "unit": "tatlı kaşığı", "allergenTags": [] },
+      { "name": "Tuz", "amount": 1, "unit": "çay kaşığı", "allergenTags": [] },
+      { "name": "Zeytinyağı", "amount": 2, "unit": "yemek kaşığı", "allergenTags": [] }
+    ],
+    "steps": [
+      "Salatalıkları soyup minik minik doğrayın veya rendeleyin.",
+      "Yoğurdu bir kapta su, ezilmiş sarımsak ve tuz ile çırparak pürüzsüz hale getirin.",
+      "Doğranmış salatalıkları yoğurda ekleyip karıştırın.",
+      "Kaselere paylaştırdıktan sonra üzerine nane ve zeytinyağı gezdirip soğuk servis yapın."
+    ],
+    "tags": ["meze", "soğuk", "ferah"]
+  },
+  {
+    "title": "Sütlü Nuriye",
+    "description": "Baklavaya benzeyen, şerbeti süt ile hazırlanan fındıklı nefis bir tatlı.",
+    "category": "dessert",
+    "servings": 8,
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 45,
+    "ingredients": [
+      { "name": "Hazır Baklavalık Yufka", "amount": 1, "unit": "paket", "allergenTags": ["gluten"] },
+      { "name": "Tereyağı", "amount": 250, "unit": "gr", "allergenTags": ["dairy"] },
+      { "name": "Fındık (İri Çekilmiş)", "amount": 1.5, "unit": "su bardağı", "allergenTags": ["nuts"] },
+      { "name": "Şeker (Şerbet için)", "amount": 3, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Su (Şerbet için)", "amount": 1.5, "unit": "su bardağı", "allergenTags": [] },
+      { "name": "Süt (Şerbet için)", "amount": 2, "unit": "su bardağı", "allergenTags": ["dairy"] }
+    ],
+    "steps": [
+      "Şerbeti için şeker ve suyu ocakta kaynatın, ocaktan almaya yakın sütü ekleyip karıştırın ve soğumaya bırakın.",
+      "Tereyağını eritin. Fırın tepsisini yağlayın.",
+      "Yufkaların yarısını aralarına az miktarda tereyağı sürerek tepsiye dizin.",
+      "Orta kata çekilmiş fındıkları bolca serpin.",
+      "Kalan yufkaları da aynı şekilde yağlayarak üstüne kapatın.",
+      "Tatlıyı kare şeklinde kesin ve kalan tereyağını üzerine gezdirin.",
+      "180°C fırında üzeri nar gibi kızarana kadar pişirin.",
+      "Fırından çıkan sıcak tatlının üzerine soğuk sütlü şerbeti döküp dinlendirerek servis yapın."
+    ],
+    "tags": ["tatlı", "sütlü", "fındıklı"]
+  }
+]
